@@ -1,10 +1,3 @@
-For a seamless reading experience, change to Paperless format:
-
-1. In the toolbar, select “Format.”  
-2. In the Format dropdown menu, select “Switch to Paperless Format.”
-
----
-
 # **\# \*\*Recognize a Phishing Email\*\***
 
 Phishing scams attempt to steal students’ personal information like email addresses, passwords, physical addresses, and phone numbers. 
