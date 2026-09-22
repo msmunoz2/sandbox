@@ -20,7 +20,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
 - Verify that the email address and the email content match.   
   - For example, campus-wide phishing alert emails will come from the NC State Office of Information Technology. (See Figure 1\)
 
-  ![Trusted NC State Information Technology email addresses][Screenshot 2026-09-21 214539.png]
+  ![Trusted NC State Information Technology email addresses](Screenshot 2026-09-21 214539.png)
 
   Figure 1: Examples of trusted NC State Office of Information Technology email addresses.
 
