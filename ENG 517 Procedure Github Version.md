@@ -11,7 +11,7 @@ Phishing scams targeting students may look like:
 
 Before replying to a suspicious email, consider the suggestions below to prevent a potential scam.
 
-1. ### ***\#\# \*\* \*Look at the Sender’s Email Address\* \*\****
+1. ### ***Look at the Sender’s Email Address****
 
 - Check for a [ncsu.edu](http://ncsu.edu) email address.  
 - Check for potential email address misspellings.   
