@@ -30,7 +30,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
   - Clicking on links or attachments can allow scammers to steal personal and device data.  
   - Common phishing attachments include HTML files, PDFs, password-protected archives, and shared Microsoft Office documents.  
 - Hover over the link (for mobile devices, press and hold the link) to see if the URL matches the email content.  
-  - For example, MyPack Portal links go to [mypack.ncsu.edu](http://mypack.ncsu.edu). 
+  - For example, MyPack Portal links should go to [mypack.ncsu.edu](http://mypack.ncsu.edu). 
 
   ![][image3]
 
