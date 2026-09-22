@@ -1,4 +1,4 @@
-# **\# \*\*Recognize a Phishing Email\*\***
+# **Recognize a Phishing Email**
 
 Phishing scams attempt to steal students’ personal information like email addresses, passwords, physical addresses, and phone numbers. 
 
@@ -11,11 +11,12 @@ Phishing scams targeting students may look like:
 
 Before replying to a suspicious email, consider the suggestions below to prevent a potential scam.
 
-1. ### ***Look at the Sender’s Email Address****
+1. ### ***Look at the Sender’s Email Address***
 
-- Check for a [ncsu.edu](http://ncsu.edu) email address.  
+- Check for a [ncsu.edu](http://ncsu.edu) email address.
+  - NC State email addresses do not always mean they are trustworthy (for example, an account may be hacked)
 - Check for potential email address misspellings.   
-- For example, phishing emails may misspell individuals’ names  
+  - For example, phishing emails may misspell individuals’ names  
 - Verify that the email address and the email content match.   
   - For example, campus-wide phishing alert emails will come from the NC State Office of Information Technology. (See Figure 1\)
 
@@ -23,7 +24,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
 
   Figure 1: Examples of trusted NC State Office of Information Technology email addresses.
 
-2. ### ***\#\# \*\* \*Interrogate Email Links and Attachments\* \*\****
+2. ### ***Interrogate Email Links and Attachments***
 
 - If the link or attachment looks suspicious, **do not click it.**   
   - Clicking on links or attachments can allow scammers to steal personal and device data.  
@@ -35,7 +36,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
 
   Figure 2: An example of what it may look like when a link and the URL do not match.
 
-3. ### ***\#\# \*\* \*Check for Grammatical Errors\* \*\****
+3. ### ***Check for Grammatical Errors***
 
 - Read through the message carefully to find:  
   - Capitalization errors  
@@ -48,7 +49,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
 
   Figure 3: This example highlights various errors common in phishing emails: incorrect punctuation (blue), incorrect or awkward grammar (green), incorrect capitalization (red), and spacing errors (yellow).
 
-4. ### ***\#\# \*\* \*Identify a “Sense of Urgency” in the Message\* \*\****
+4. ### ***Identify a “Sense of Urgency” in the Message***
 
 - Phishing scams create a false sense of emergency to make users act before considering the consequences.  
   - The message may present a great opportunity such as a job offer that is available for a short period of time or an imminent threat that must be dealt with immediately as seen in Figure 4\.  
@@ -56,7 +57,7 @@ Before replying to a suspicious email, consider the suggestions below to prevent
   ![][image5]  
   Figure 4: The message emphasizes the urgency by repeating how it is a “high-severity alert” to psychologically trick users to click on the link.
 
-5. ### ***\#\# \*\* \*Look Out for Vague Language and Details\* \*\****
+5. ### ***Look Out for Vague Language and Details***
 
 - For emails associated with NC State, ensure it uses NC State branding.  
   - For example, a phishing email may use generic language such as “student portal” or “IT department,” but NC State emails use specific language like “MyPack Portal” and “NC State Office of Information Technology.”  
