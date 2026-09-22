@@ -28,8 +28,9 @@ Before replying to a suspicious email, consider the suggestions below to prevent
 - If the link or attachment looks suspicious, **do not click it.**   
   - Clicking on links or attachments can allow scammers to steal personal and device data.  
   - Common phishing attachments include HTML files, PDFs, password-protected archives, and shared Microsoft Office documents.  
-- Hover over the link (for mobile devices, press and hold the link) to see if the URL matches the email content.  
-  - For example, MyPack Portal links should go to [mypack.ncsu.edu](http://mypack.ncsu.edu). 
+- Hover over the link (for mobile devices, press and hold the link) to see if the URL matches the email content as seen in Figure 2.  
+  - For example, MyPack Portal links should go to [mypack.ncsu.edu](http://mypack.ncsu.edu).
+- An email link can appear safe (.pdf), but it may have a hidden function that executes after clicking on it (.pdf.exe)
 
   ![Email link does not lead where it says it leads when the user hovers over it][image2]
 
