@@ -1,0 +1,21 @@
+### Procedure Analysis
+
+The procedure is a “read to learn to do” document (Redish) because it aims to teach the reader some common aspects of phishing emails so they can then spot them in their own inbox. The procedure does this most effectively via its use of image examples (Arnheim). Having examples of what that might actually look like in the context of an email would help them be more likely to spot it when they come across it in real life.
+
+The procedure follows a minimal approach to writing (Carroll) because the name of each step is succinct and easy to understand. It exploits prior knowledge by assuming they know how to use their email, how email links and attachments work, and where the sender’s address is located in the email window. I get started fast by not spending too much time introducing and explaining what phishing is. I use textual and visual examples (Arnheim) to further illustrate what I am explaining in each step.
+
+The procedure is only composed of one task. I keep the task self contained by not trying to teach other skills (ex. How to report a phishing email) and only keeping it relevant to the stated task. The task is composed of 5 steps, demonstrating that it is a digestible chunk and not overwhelming and lengthy.
+
+The procedure has a conventional style (van der Meij & Gellevig) by having a clear goal in mind (recognizing a phishing email). The procedure has prerequisites such as being able to use technology, access their email, and being aware that phishing emails exist. For actions, I used screenshots that focus on a certain part of an email so users would know where they should look or what they are looking for on specific steps (Arnheim). One of the pictures illustrates an unwanted state by showing what it looks like when a link name doesn’t lead to where it says it leads (indicating that it is a scam).
+
+The procedure makes effective use of images (Arnheim) to show what the step may look like in a phishing email. Since it is an example, the user likely won’t literally come across the exact circumstance shown in the picture, but they’ll understand the concept enough to be able to apply it when they come across their own phishing email.
+
+### Video Analysis
+
+For physical design, the video is accessible via having blue circles around the parts of the screen I was verbally referring to, making it easier for the viewer to know what I am talking about as I am talking about it. For viewability, the video maintains good production quality by not having pixelated or distorted images. The audio is clear to understand without distracting music in the background. For timing, the images are displayed on the screen simultaneously as I am talking about them. I am also speaking at a good speed, not too fast or slow. (Morain & Swarts, 2012\)
+
+For cognitive design, the video is accurate because I align the information with generally-accepted practices of phishing safety. The video showcases completeness via introducing at the beginning of the video what the video is going to be about with a title slide. At the beginning of each step/change in topic, the step name is in clear text, a different size , and a noticeable color to stand out from the rest of the text. At the end of the video, I add a final slide that lists out the steps I went over in the video. For pertinence, I only cover topics relating to spotting a phishing email and do not add any unrelated instructions or topics. (Morain & Swarts, 2012\)
+
+For affective design, my voice’s tone and quality exhibits confidence because I wrote a script and didn’t have any pauses or trip-ups. I also spoke in a calm tone and did not use complicated words or descriptions. I display self-efficacy by having a younger voice which may help connect with fellow NC State students. For engagement, I try to change the screen visual fairly often so viewers do not get bored of looking at the same screen for extended periods of time. (Morain & Swarts, 2012\)
+
+I primarily used medium and close-up shots in the video. I did not include the entire screen because it would distract from the real focus of the video and the audience likely has a good understanding of Gmail basics. The close-up shots showed details that may be harder to see from the medium shot. I also circled certain aspects in blue to make them stand out throughout the video.  
