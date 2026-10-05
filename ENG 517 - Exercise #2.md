@@ -1,4 +1,4 @@
-\` Library-catalog-entry.xml\` 
+\` library-catalog-entry.xml\` 
 
 \#\# \*\[title\]\* (\[publication-date\])
 
