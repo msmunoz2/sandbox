@@ -8,7 +8,7 @@ Publisher: [publisher]
 
 > [description]
 
-Media: [media-type]
+Media: ![media-type]
 
 [reference-number]
 
@@ -20,3 +20,5 @@ Write 1-2 paragraphs (~150 words) giving your genre analysis and description of 
 [publication-date] : <library-catalog-entry.xml>
 [creator] : `library-catalog-entry.xml`
 [publisher] : <`library-catalog-entry.xml`>
+[description] : <`description`>
+[media-type] : <library-catalog-entry.xml>
