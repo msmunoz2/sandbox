@@ -30,3 +30,12 @@ Media: [media-type]
 Location: [physical-location]
 
 Write 1-2 paragraphs (~150 words) giving your genre analysis and description of the genre structures, genre elements, and the rules for assembling both.
+
+`<title>`
+`<creator>`
+`<publisher>`
+`<publication-date>`
+`<description>`
+`<media-type>`
+`<reference-number>`
+`<physical-location>`
