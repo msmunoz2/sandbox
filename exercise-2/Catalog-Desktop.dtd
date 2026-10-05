@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT library catalog entry (title,creator,media,location*,publication,description)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT creator (#PCDATA)>
+<!ELEMENT media (media-type+)>
+<!ELEMENT media-type (#PCDATA)>
+<!ELEMENT location (physical-location*,reference-number)
+<!ELEMENT physical-location (#PCDATA)>
+<!ELEMENT reference-number (#PCDATA)>
+<!ELEMENT publication (publication-date,publisher)>
+<!ELEMENT publication-date (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
