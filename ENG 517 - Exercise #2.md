@@ -1,4 +1,7 @@
 ` library-catalog-entry.xml` 
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog.css"?>
+<!DOCTYPE library-catalog-entry.xml SYSTEM "Catalog-Desktop.dtd">
 
 ## *[title]* ([publication-date])
 
