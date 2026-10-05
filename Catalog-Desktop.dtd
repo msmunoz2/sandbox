@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!ELEMENT library catalog entry (title,creator,media,location*,publication,description)>
+<!ELEMENT library-catalog-entry (title,creator,media,location*,publication,description)>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT creator (#PCDATA)>
 <!ELEMENT media (media-type+)>
