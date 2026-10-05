@@ -15,15 +15,15 @@
 <description> Noah's path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Born to a white Swiss father and a black Xhosa mother, at the time such a union was punishable by five years in prison. As he struggles to find himself in a world where he was never supposed to exist, his mother is determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life. With an incisive wit and unflinching honesty, Noah weaves together a moving yet funny portrait of a boy making his way through a damaged world in a dangerous time. </description>
 </library-catalog-entry>`
   
-## *<title>* (<publication-date>)
+## *[title]* ([publication-date])
 
-Author: <creator>
+Author: [creator]
 
-Publisher: <publisher>
+Publisher: [publisher]
 
-> <description>
+> [description]
 
-Media: <media-type>
+Media: [media-type]
 
 [reference-number]
 
