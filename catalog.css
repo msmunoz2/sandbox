@@ -9,7 +9,7 @@ library-catalog-entry {
 }
 title {
     display: block;
-	color: gray;
+	color: red;
 	font-size: 18px;
 }
 creator {
