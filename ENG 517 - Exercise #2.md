@@ -1,17 +1,17 @@
-\` library-catalog-entry.xml\` 
+` library-catalog-entry.xml` 
 
-\#\# \*\[title\]\* (\[publication-date\])
+## *[title]* ([publication-date])
 
-Author: \[creator\]
+Author: [creator]
 
-Publisher: \[publisher\]
+Publisher: [publisher]
 
-\> \[description\]
+> [description]
 
-Media: \[media-type\]
+Media: [media-type]
 
-\[reference-number\]
+[reference-number]
 
-Location: \[physical-location\]
+Location: [physical-location]
 
-Write 1-2 paragraphs (\~150 words) giving your genre analysis and description of the genre structures, genre elements, and the rules for assembling both.
+Write 1-2 paragraphs (~150 words) giving your genre analysis and description of the genre structures, genre elements, and the rules for assembling both.
