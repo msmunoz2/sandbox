@@ -1,1 +1,9 @@
-I used the genre of a library catalog entry. It carries several repeated structures across various entries (e.g. title, author, location of material). This includes structures that are nested into others for DITA and XML structuring. Under “library-catalog-entry” there are parts called title and author which are easily understandable to non-technical users (as is XML custom). But under things like “publication” I created child elements that are thematically related such as “publication-date” and “publisher”. For “media-type” under the DITA file, I added the “+” because there may be several different types of media for one title such as ebooks, audiobooks, or physical books which for some systems are all listed under the same entry. I created a very simple CSS file that defined the general elements the same, but specified bigger font sizes and different colors for the title and author to make them stand out.
+I used the genre of a library catalog entry. 
+It carries several repeated structures across various entries (e.g. title, author, location of material). 
+This includes structures that are nested into others for DITA and XML structuring. 
+Under “library-catalog-entry” there are parts called title and author which are easily understandable to non-technical users (as is XML custom). 
+But under things like “publication” I created child elements that are thematically related such as “publication-date” and “publisher”. 
+For “media-type” under the DITA file, I added the “+” because there may be several different types of media for one title 
+such as ebooks, audiobooks, or physical books which for some systems are all listed under the same entry. 
+I created a very simple CSS file that defined the general elements the same, 
+but specified bigger font sizes and different colors for the title and author to make them stand out.
