@@ -22,3 +22,10 @@ Write 1-2 paragraphs (~150 words) giving your genre analysis and description of 
 [publisher] : <`library-catalog-entry.xml`>
 [description] : <`description`>
 [media-type] : <library-catalog-entry.xml>
+
+
+
+<!-- Good choice of a genre for this exercise. This is good example of a fairly regularized kind of information that people would want to reproduce faithfully each time. If any of these pieces of information were missing, the genre would not work nearly so well. 
+
+The DTD is flawless. 
+The only issue I see with the XML file is on Line 17 where you will need escape characters in order to use the ampersand. -->
